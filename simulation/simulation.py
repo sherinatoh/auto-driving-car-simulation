@@ -91,9 +91,7 @@ class Simulation:
             option = input()
             if option == '1':
                 self.add_car()
-
             elif option == '2':
-                # Run simulation stuff
                 self.run_simulation()
                 break
 
