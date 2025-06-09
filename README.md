@@ -26,3 +26,6 @@ Cars are only assumed to have collided if they are in the same position after mo
 
 # Areas of Improvement
 - Input validations can be added, to request for the user to reenter values if they are not valid
+    - Add validation for direction and movement
+    - Prevent a car from being added to an already occupied popsition
+- Include swapping of positions as a form of collision
