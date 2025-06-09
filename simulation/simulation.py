@@ -39,7 +39,6 @@ class Simulation:
         self.cars.append(car)
         self.print_cars_list()
 
-
     def run_simulation(self):
         '''
         Runs the simulation with the current list of cars
@@ -72,14 +71,12 @@ class Simulation:
         for car in self.cars:
             car.print_car_info()
 
-
     def reset(self):
         '''
         Clears all list of cars
         '''
         self.cars = []
                     
-
     def run(self):
         '''
         Main function to run the simulation
