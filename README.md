@@ -7,7 +7,7 @@ git clone https://github.com/sherinatoh/auto-driving-car-simulation.git
 ## Installing dependencies
 ```
 cd auto-driving-car-simulation
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Running the simulation
